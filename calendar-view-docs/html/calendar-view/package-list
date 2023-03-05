@@ -1,15 +1,9 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.sy007.calendar.entity////PointingToDeclaration/calendar-view/com.sy007.calendar.entity/index.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.NEXT_MONTH///PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-n-e-x-t_-m-o-n-t-h/index.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.NEXT_MONTH/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-n-e-x-t_-m-o-n-t-h/name.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.NEXT_MONTH/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-n-e-x-t_-m-o-n-t-h/ordinal.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.PRE_MONTH///PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-p-r-e_-m-o-n-t-h/index.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.PRE_MONTH/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-p-r-e_-m-o-n-t-h/name.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.PRE_MONTH/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-p-r-e_-m-o-n-t-h/ordinal.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.THIS_MONTH///PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-t-h-i-s_-m-o-n-t-h/index.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.THIS_MONTH/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-t-h-i-s_-m-o-n-t-h/name.html
-$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.THIS_MONTH/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-t-h-i-s_-m-o-n-t-h/ordinal.html
+$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.NEXT_MONTH///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-n-e-x-t_-m-o-n-t-h/index.html
+$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.PRE_MONTH///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-p-r-e_-m-o-n-t-h/index.html
+$dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner.THIS_MONTH///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/-t-h-i-s_-m-o-n-t-h/index.html
 $dokka.location:com.sy007.calendar.entity/CalendarDay.DayOwner///PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-day-owner/index.html
 $dokka.location:com.sy007.calendar.entity/CalendarDay///PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/index.html
 $dokka.location:com.sy007.calendar.entity/CalendarDay/CalendarDay/#java.util.Calendar/PointingToDeclaration/calendar-view/com.sy007.calendar.entity/-calendar-day/-calendar-day.html
@@ -37,6 +31,24 @@ $dokka.location:com.sy007.calendar.utils/Util/betweenDay/#java.util.Calendar#jav
 $dokka.location:com.sy007.calendar.utils/Util/diffMonth/#java.util.Calendar#java.util.Calendar/PointingToDeclaration/calendar-view/com.sy007.calendar.utils/-util/diff-month.html
 $dokka.location:com.sy007.calendar.utils/Util/dip2px/#android.content.Context#kotlin.Float/PointingToDeclaration/calendar-view/com.sy007.calendar.utils/-util/dip2px.html
 $dokka.location:com.sy007.calendar.utils/Util/sp2px/#android.content.Context#kotlin.Float/PointingToDeclaration/calendar-view/com.sy007.calendar.utils/-util/sp2px.html
+$dokka.location:com.sy007.calendar.widget.help////PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/index.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter.Companion///PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/-companion/index.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter.Companion/MONTH_IN_YEAR/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/-companion/-m-o-n-t-h_-i-n_-y-e-a-r.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter///PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/index.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/CalendarAdapter/#com.sy007.calendar.CalendarConfig#com.sy007.calendar.MonthHeaderViewBinder[android.view.View]?#com.sy007.calendar.MonthViewBinder[com.sy007.calendar.widget.BaseMonthView]#com.sy007.calendar.MonthFooterViewBinder[android.view.View]?/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/-calendar-adapter.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/footerViewId/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/footer-view-id.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/getAdapterPosition/#com.sy007.calendar.entity.CalendarDay/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/get-adapter-position.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/getItemCount/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/get-item-count.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/headerViewId/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/header-view-id.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/monthViewId/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/month-view-id.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/notifyMonthScrollListener/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/notify-month-scroll-listener.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/onAttachedToRecyclerView/#androidx.recyclerview.widget.RecyclerView/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/on-attached-to-recycler-view.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/onBindViewHolder/#com.sy007.calendar.widget.help.MonthViewHolder#kotlin.Int/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/on-bind-view-holder.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/on-create-view-holder.html
+$dokka.location:com.sy007.calendar.widget.help/CalendarAdapter/onDetachedFromRecyclerView/#androidx.recyclerview.widget.RecyclerView/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-calendar-adapter/on-detached-from-recycler-view.html
+$dokka.location:com.sy007.calendar.widget.help/MonthViewHolder///PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-month-view-holder/index.html
+$dokka.location:com.sy007.calendar.widget.help/MonthViewHolder/MonthViewHolder/#android.view.View#com.sy007.calendar.widget.help.CalendarAdapter#com.sy007.calendar.MonthHeaderViewBinder[android.view.View]?#com.sy007.calendar.MonthViewBinder[com.sy007.calendar.widget.BaseMonthView]#com.sy007.calendar.MonthFooterViewBinder[android.view.View]?/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-month-view-holder/-month-view-holder.html
+$dokka.location:com.sy007.calendar.widget.help/MonthViewHolder/bindMonth/#com.sy007.calendar.entity.CalendarDay#com.sy007.calendar.CalendarConfig/PointingToDeclaration/calendar-view/com.sy007.calendar.widget.help/-month-view-holder/bind-month.html
 $dokka.location:com.sy007.calendar.widget////PointingToDeclaration/calendar-view/com.sy007.calendar.widget/index.html
 $dokka.location:com.sy007.calendar.widget/BaseMonthView.Companion///PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-base-month-view/-companion/index.html
 $dokka.location:com.sy007.calendar.widget/BaseMonthView///PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-base-month-view/index.html
@@ -54,10 +66,13 @@ $dokka.location:com.sy007.calendar.widget/BaseMonthView/onTouchEvent/#android.vi
 $dokka.location:com.sy007.calendar.widget/BaseMonthView/rowHeight/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-base-month-view/row-height.html
 $dokka.location:com.sy007.calendar.widget/CalendarView///PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/index.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/CalendarView/#android.content.Context#android.util.AttributeSet?#kotlin.Int/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/-calendar-view.html
+$dokka.location:com.sy007.calendar.widget/CalendarView/footerViewBinder/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/footer-view-binder.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/headerViewBinder/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/header-view-binder.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/monthScrollListener/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/month-scroll-listener.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/monthViewBinder/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/month-view-binder.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/notifyCalendarChanged/#/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/notify-calendar-changed.html
+$dokka.location:com.sy007.calendar.widget/CalendarView/onInterceptTouchEvent/#android.view.MotionEvent/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/on-intercept-touch-event.html
+$dokka.location:com.sy007.calendar.widget/CalendarView/onTouchEvent/#android.view.MotionEvent/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/on-touch-event.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/scrollToDay/#com.sy007.calendar.entity.CalendarDay/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/scroll-to-day.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/scrollToMonth/#com.sy007.calendar.entity.CalendarDay/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/scroll-to-month.html
 $dokka.location:com.sy007.calendar.widget/CalendarView/setUp/#com.sy007.calendar.CalendarConfig/PointingToDeclaration/calendar-view/com.sy007.calendar.widget/-calendar-view/set-up.html
@@ -106,13 +121,10 @@ $dokka.location:com.sy007.calendar/CalendarConfig/orientation/#/PointingToDeclar
 $dokka.location:com.sy007.calendar/CalendarConfig/scrollMode/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-calendar-config/scroll-mode.html
 $dokka.location:com.sy007.calendar/CalendarConfig/startCalendar/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-calendar-config/start-calendar.html
 $dokka.location:com.sy007.calendar/CalendarConfig/weekStart/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-calendar-config/week-start.html
-$dokka.location:com.sy007.calendar/HeightMode.DYNAMIC///PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/-d-y-n-a-m-i-c/index.html
-$dokka.location:com.sy007.calendar/HeightMode.DYNAMIC/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/-d-y-n-a-m-i-c/name.html
-$dokka.location:com.sy007.calendar/HeightMode.DYNAMIC/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/-d-y-n-a-m-i-c/ordinal.html
-$dokka.location:com.sy007.calendar/HeightMode.FIXED///PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/-f-i-x-e-d/index.html
-$dokka.location:com.sy007.calendar/HeightMode.FIXED/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/-f-i-x-e-d/name.html
-$dokka.location:com.sy007.calendar/HeightMode.FIXED/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/-f-i-x-e-d/ordinal.html
+$dokka.location:com.sy007.calendar/HeightMode.DYNAMIC///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-height-mode/-d-y-n-a-m-i-c/index.html
+$dokka.location:com.sy007.calendar/HeightMode.FIXED///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-height-mode/-f-i-x-e-d/index.html
 $dokka.location:com.sy007.calendar/HeightMode///PointingToDeclaration/calendar-view/com.sy007.calendar/-height-mode/index.html
+$dokka.location:com.sy007.calendar/MonthFooterViewBinder///PointingToDeclaration/calendar-view/com.sy007.calendar/-month-footer-view-binder/index.html
 $dokka.location:com.sy007.calendar/MonthHeaderViewBinder///PointingToDeclaration/calendar-view/com.sy007.calendar/-month-header-view-binder/index.html
 $dokka.location:com.sy007.calendar/MonthHeaderViewBinder/MonthHeaderViewBinder/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-month-header-view-binder/-month-header-view-binder.html
 $dokka.location:com.sy007.calendar/MonthHeaderViewBinder/isStick/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-month-header-view-binder/is-stick.html
@@ -125,48 +137,24 @@ $dokka.location:com.sy007.calendar/OnRangeSelectedListener///PointingToDeclarati
 $dokka.location:com.sy007.calendar/OnRangeSelectedListener/onSelected/#com.sy007.calendar.entity.CalendarRangeSelected/PointingToDeclaration/calendar-view/com.sy007.calendar/-on-range-selected-listener/on-selected.html
 $dokka.location:com.sy007.calendar/OnSelectedListener///PointingToDeclaration/calendar-view/com.sy007.calendar/-on-selected-listener/index.html
 $dokka.location:com.sy007.calendar/OnSelectedListener/onSelected/#com.sy007.calendar.entity.CalendarDay/PointingToDeclaration/calendar-view/com.sy007.calendar/-on-selected-listener/on-selected.html
-$dokka.location:com.sy007.calendar/ScrollMode.CONTINUITIES///PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/-c-o-n-t-i-n-u-i-t-i-e-s/index.html
-$dokka.location:com.sy007.calendar/ScrollMode.CONTINUITIES/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/-c-o-n-t-i-n-u-i-t-i-e-s/name.html
-$dokka.location:com.sy007.calendar/ScrollMode.CONTINUITIES/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/-c-o-n-t-i-n-u-i-t-i-e-s/ordinal.html
-$dokka.location:com.sy007.calendar/ScrollMode.PAGE///PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/-p-a-g-e/index.html
-$dokka.location:com.sy007.calendar/ScrollMode.PAGE/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/-p-a-g-e/name.html
-$dokka.location:com.sy007.calendar/ScrollMode.PAGE/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/-p-a-g-e/ordinal.html
+$dokka.location:com.sy007.calendar/ScrollMode.CONTINUITIES///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-scroll-mode/-c-o-n-t-i-n-u-i-t-i-e-s/index.html
+$dokka.location:com.sy007.calendar/ScrollMode.PAGE///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-scroll-mode/-p-a-g-e/index.html
 $dokka.location:com.sy007.calendar/ScrollMode///PointingToDeclaration/calendar-view/com.sy007.calendar/-scroll-mode/index.html
 $dokka.location:com.sy007.calendar/ViewBinder///PointingToDeclaration/calendar-view/com.sy007.calendar/-view-binder/index.html
 $dokka.location:com.sy007.calendar/ViewBinder/create/#android.view.ViewGroup/PointingToDeclaration/calendar-view/com.sy007.calendar/-view-binder/create.html
 $dokka.location:com.sy007.calendar/ViewBinder/onBind/#TypeParam(bounds=[android.view.View])#com.sy007.calendar.entity.CalendarDay/PointingToDeclaration/calendar-view/com.sy007.calendar/-view-binder/on-bind.html
-$dokka.location:com.sy007.calendar/WeekStart.FRIDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-f-r-i-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.FRIDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-f-r-i-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.FRIDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-f-r-i-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.FRIDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-f-r-i-d-a-y/value.html
-$dokka.location:com.sy007.calendar/WeekStart.MONDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-m-o-n-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.MONDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-m-o-n-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.MONDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-m-o-n-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.MONDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-m-o-n-d-a-y/value.html
-$dokka.location:com.sy007.calendar/WeekStart.SATURDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-a-t-u-r-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.SATURDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-a-t-u-r-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.SATURDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-a-t-u-r-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.SATURDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-a-t-u-r-d-a-y/value.html
-$dokka.location:com.sy007.calendar/WeekStart.SUNDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-u-n-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.SUNDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-u-n-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.SUNDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-u-n-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.SUNDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-s-u-n-d-a-y/value.html
-$dokka.location:com.sy007.calendar/WeekStart.THURSDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-h-u-r-s-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.THURSDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-h-u-r-s-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.THURSDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-h-u-r-s-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.THURSDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-h-u-r-s-d-a-y/value.html
-$dokka.location:com.sy007.calendar/WeekStart.TUESDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-u-e-s-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.TUESDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-u-e-s-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.TUESDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-u-e-s-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.TUESDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-t-u-e-s-d-a-y/value.html
-$dokka.location:com.sy007.calendar/WeekStart.WEDNESDAY///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-w-e-d-n-e-s-d-a-y/index.html
-$dokka.location:com.sy007.calendar/WeekStart.WEDNESDAY/name/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-w-e-d-n-e-s-d-a-y/name.html
-$dokka.location:com.sy007.calendar/WeekStart.WEDNESDAY/ordinal/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-w-e-d-n-e-s-d-a-y/ordinal.html
-$dokka.location:com.sy007.calendar/WeekStart.WEDNESDAY/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/-w-e-d-n-e-s-d-a-y/value.html
+$dokka.location:com.sy007.calendar/WeekStart.FRIDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-f-r-i-d-a-y/index.html
+$dokka.location:com.sy007.calendar/WeekStart.MONDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-m-o-n-d-a-y/index.html
+$dokka.location:com.sy007.calendar/WeekStart.SATURDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-s-a-t-u-r-d-a-y/index.html
+$dokka.location:com.sy007.calendar/WeekStart.SUNDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-s-u-n-d-a-y/index.html
+$dokka.location:com.sy007.calendar/WeekStart.THURSDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-t-h-u-r-s-d-a-y/index.html
+$dokka.location:com.sy007.calendar/WeekStart.TUESDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-t-u-e-s-d-a-y/index.html
+$dokka.location:com.sy007.calendar/WeekStart.WEDNESDAY///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}calendar-view/com.sy007.calendar/-week-start/-w-e-d-n-e-s-d-a-y/index.html
 $dokka.location:com.sy007.calendar/WeekStart///PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/index.html
 $dokka.location:com.sy007.calendar/WeekStart/value/#/PointingToDeclaration/calendar-view/com.sy007.calendar/-week-start/value.html
 com.sy007.calendar
 com.sy007.calendar.entity
 com.sy007.calendar.utils
 com.sy007.calendar.widget
+com.sy007.calendar.widget.help
 
